@@ -1,2 +1,2 @@
 # RefreshBlockPositionChanger
-This plug in allows you to fix a div on the screen when scroll by its position on page.
+This plug in allows you to fix a div on the screen when scroll by its position on page. To get started with this plug-in just import the javascript file, and execute the function refreshBlockPosition(elementId, distanceFromTop). elementId refers to the name of the element you would like to fix on screen, and distanceFromTop refers to the page offset from which you would like to fix the element.
